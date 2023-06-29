@@ -1,4 +1,4 @@
-# Running Python Programs with OOP Concepts in Google Colab or normal
+# Running Python Programs with OOP Concepts
 
 This README file provides instructions for running Python programs with object-oriented programming (OOP) concepts in Google Colab. It outlines the steps required to execute the code using the "Run" button for each cell and highlights the incorporation of OOP principles.
 
