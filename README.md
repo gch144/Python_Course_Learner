@@ -5,7 +5,7 @@ This README file provides instructions for running Python programs with object-o
 ## Introduction:
 This project aims to demonstrate the execution of Python programs that utilize OOP concepts in Google Colab. Object-oriented programming is a programming paradigm that allows the structuring of code around objects, which have attributes (data) and methods (functions). These instructions will guide you on running the code and understanding the OOP principles incorporated.
 
-##Setting up Google Colab:
+## Setting up Google Colab:
 
 * Open Google Colab in your web browser.
 * Sign in to your Google account or create a new one if needed.
