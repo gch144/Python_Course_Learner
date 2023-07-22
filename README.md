@@ -115,7 +115,7 @@
 
 * US Visa Approval Data Analysis
 
-* Holiday Package Data Analysi
+* Holiday Package Data Analysis
 
 
 ## Maths  
